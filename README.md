@@ -13,6 +13,29 @@
 - Oyun ve strateji tasarımına ilgim var; web tabanlı **puzzle/strateji oyunları** yapmayı seviyorum.
 
 ---
+# 🚀 Projeler
+
+## 🎬 ClipForge - Video Düzenleme & Kesme Uygulaması
+
+📌 **ClipForge**, kullanıcıların yerel sistemlerinde video kesme, düzenleme ve önizleme işlemlerini kolayca yapabilmelerini sağlayan güçlü bir masaüstü uygulamasıdır.
+
+Bu proje, **Vue 3 + TypeScript frontend** ile oluşturulmuş olup, video işlemleri için arka planda **FFmpeg** kullanır.
+
+🔗 Repository:  
+https://github.com/ESAT885/ClipForge.App
+
+
+---
+
+## 🧩 Sketch App - Canvas Tabanlı Not & Diyagram Uygulaması
+
+📌 **Sketch App**, kullanıcıların sürükle-bırak yöntemi ile notlar, başlıklar ve gruplar oluşturabileceği interaktif bir **canvas tabanlı çalışma alanı** sunar.
+
+Bu proje, **Vue 3 + TypeScript** kullanılarak geliştirilmiş olup, dinamik bileşenler, drag & drop ve resize özellikleri içerir.
+
+🔗 Repository:  
+https://github.com/ESAT885/sketch-app
+
 
 ## 🛠 Teknolojiler & Araçlar
 
