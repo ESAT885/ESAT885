@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Esat!
 
-<!--
-**ESAT885/ESAT885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web & Software Developer | Angular & TypeScript | C# & Web API | AI & LLM Meraklısı**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hakkımda
+- Angular 19 ve TypeScript ile **dinamik, ölçeklenebilir ve performans odaklı web uygulamaları** geliştiriyorum.  
+- **Web API entegrasyonları**, REST ve GraphQL servisleri ile veri yönetimi ve backend iletişimi sağlıyorum.  
+- C# ile **Windows uygulamaları, socket iletişimi, Wi-Fi / sistem entegrasyonları** yapıyorum.  
+- **PDF servisleri ve özelleştirilebilir PDF içerik sistemleri** üzerinde çalıştım.  
+- **LLM ve Transformer modelleri** ile AI projeleri geliştiriyorum; araştırıyor ve öğreniyorum.  
+- Oyun ve strateji tasarımına ilgim var; web tabanlı **puzzle/strateji oyunları** yapmayı seviyorum.
+
+---
+
+## 🛠 Teknolojiler & Araçlar
+
+| Frontend | Backend | API & Web | AI / ML | Araçlar |
+|----------|---------|-----------|---------|---------|
+| Angular 19 | C# (.NET) | REST API | Transformer & LLM | VS Code |
+| TypeScript | Node.js | GraphQL | OpenAI API | Git & GitHub |
+| Tailwind CSS | ASP.NET Core | Web API Entegrasyonu | Python | Figma |
+| Vue 3 | SQL / EF Core | JSON / HTTP |  | Postman |
+
+---
+
+## 🌱 Öğrenmeye Devam Ediyorum
+- Yapay zekada ileri seviye **LLM projeleri**  
+- AI destekli web uygulamaları ve oyun geliştirme  
+- Performans optimizasyonu ve ölçeklenebilir sistem tasarımı  
+
+---
+
+## 📫 Bana Ulaş  
+- GitHub: [github.com/esar](https://github.com/esar)  
+- LinkedIn: [linkedin.com/in/esar](www.linkedin.com/in/esat-demir-49a9821b9)
+
+---
+
+> “Kod yazmak, düşünceyi gerçeğe dönüştürme sanatıdır.”  
