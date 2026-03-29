@@ -5,7 +5,7 @@
 ---
 
 ## Hakkımda
-- Angular 19 ve TypeScript ile **dinamik, ölçeklenebilir ve performans odaklı web uygulamaları** geliştiriyorum.  
+- Angular  ve TypeScript ile **dinamik, ölçeklenebilir ve performans odaklı web uygulamaları** geliştiriyorum.  
 - **Web API entegrasyonları**, REST ve GraphQL servisleri ile veri yönetimi ve backend iletişimi sağlıyorum.  
 - C# ile **Windows uygulamaları, socket iletişimi, Wi-Fi / sistem entegrasyonları** yapıyorum.  
 - **PDF servisleri ve özelleştirilebilir PDF içerik sistemleri** üzerinde çalıştım.  
