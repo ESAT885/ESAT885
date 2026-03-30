@@ -56,7 +56,7 @@ https://github.com/ESAT885/sketch-app
 ---
 
 ## 📫 Bana Ulaş  
-- LinkedIn: [linkedin.com/in/esar](www.linkedin.com/in/esat-demir-49a9821b9)
+- LinkedIn: [www.linkedin.com/in/esat-demir-49a9821b9](www.linkedin.com/in/esat-demir-49a9821b9)
 
 ---
 
