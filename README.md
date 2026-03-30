@@ -17,7 +17,7 @@
 
 ## 🎬 ClipForge - Video Düzenleme & Kesme Uygulaması
 
-📌 **ClipForge**, kullanıcıların yerel sistemlerinde video kesme, düzenleme ve önizleme işlemlerini kolayca yapabilmelerini sağlayan güçlü bir masaüstü uygulamasıdır.
+📌 **ClipForge**, kullanıcıların yerel sistemlerinde video kesme, düzenleme ve önizleme işlemlerini kolayca yapabilmelerini sağlayan güçlü bir web uygulamasıdır.
 
 Bu proje, **Vue 3 + TypeScript frontend** ile oluşturulmuş olup, video işlemleri için arka planda **FFmpeg** kullanır.
 
